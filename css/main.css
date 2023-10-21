@@ -1,1 +1,45 @@
+:root
+{
+    --uncblue: RGB(1,45,91);
+    --uncgold: RGB(254,189,54);
+    --uncgray: RGB(235,235,235);
+    color: var(--uncblue);
+    background-color:var(--uncgray)
+}
 
+.title
+{
+  color: var(--uncgold);
+  font-size: 48pt;
+  text-decoration: underline;
+  text-align: center;
+}
+
+ul
+{
+    text-align: center;
+}
+li
+{
+    display: inline;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
+section :hover
+{
+    background-color:var(--uncgold);
+}
+
+.footnote
+{
+    font-style: italic;
+    text-align: center;
+    margin-top: 100px;
+}
