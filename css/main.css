@@ -10,10 +10,10 @@
 .title
 {
 color: var(--blue);
-font-size: 48pt;
-text-decoration: underline;
+font-size: 55pt;
+text-decoration: (--yellow) wavy underline;
 text-align: center;
-text-family: serif;
+text-family: sans-serif;
 }
 
 ul
