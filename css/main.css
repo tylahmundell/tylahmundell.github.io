@@ -11,9 +11,7 @@
 {
 color: var(--blue);
 font-size: 55pt;
-text-decoration: underline;
-    text-decoration-style: wavy;
-    text-decoration-color: (--yellow);
+text-decoration: wavy underline;
 text-align: center;
 text-family: sans-serif;
 }
