@@ -18,11 +18,11 @@ text-align: center;
 }
 h1
 {
-    font-size: calc(12pt + 4vw);
+    font-size: calc(15pt + 4vw);
 }
 nav
 {
-    border: 5px var(--blue) solid;
+    border: 5px var(--blue) double;
 }
 section
 {
