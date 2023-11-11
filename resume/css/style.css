@@ -1,1 +1,50 @@
+:root
+{
+    --blue: RGBA(0,45,91,255);
+    --yellow: RGBA(254,189,54,255);
+    --lightblue: RGB(116,140,164);
+    color: var(--blue);
+    background-color:var(--lightblue)
+}
 
+title
+{
+color: var(--blue);
+font-size: 55pt;
+text-decoration: underline;
+text-align: center;
+text-family: sans-serif;
+}
+
+ul
+{
+    text-align: center;
+}
+
+li
+{
+    display: inline;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+img
+{
+    width: 400;
+    border: 2px (--blue);
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+}
+
+section :hover
+{
+    background-color:var(--yellow);
+}
+
+.footnote
+{
+    font-style: italic;
+    text-align: center;
+    margin-top: 100px;
+}
