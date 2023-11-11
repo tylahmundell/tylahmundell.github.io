@@ -30,14 +30,6 @@ section
     margin: 5px;
     margin-top: 50px;
 }
-img
-{
-    width: 200;
-    border: 2px (--blue);
-    border-radius: 15px;
-    margin: auto;
-    display: block;
-}
 .date
 {
     color: var(--yellow);
