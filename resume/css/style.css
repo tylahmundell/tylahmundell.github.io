@@ -18,6 +18,10 @@ text-align: center;
 h1
 {
     font-size: calc(15pt + 4vw);
+img
+{
+    width: 200px;
+    border: 2px solid(--yellow);
 }
 nav
 {
