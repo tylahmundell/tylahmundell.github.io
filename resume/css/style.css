@@ -6,45 +6,44 @@
     color: var(--blue);
     background-color:var(--lightblue)
 }
-
-title
+body
 {
-color: var(--blue);
-font-size: 55pt;
-text-decoration: underline;
+background-color: var(--lightblue);
 text-align: center;
-text-family: sans-serif;
 }
-
-ul
+*
 {
+    color: var(--blue);
     text-align: center;
 }
-
-li
+h1
 {
-    display: inline;
-    margin-left: 3vw;
-    margin-right: 3vw;
+    font-size: calc(12pt + 4vw);
 }
-
+nav
+{
+    border: 5px var(--blue) solid;
+}
+section
+{
+    border: 5px var(--blue) solid;
+    margin: 5px;
+    margin-top: 50px;
+}
 img
 {
-    width: 400;
+    width: 200;
     border: 2px (--blue);
     border-radius: 15px;
     margin: auto;
     display: block;
 }
-
-section :hover
+.date
 {
-    background-color:var(--yellow);
+    color: var(--yellow);
 }
-
-.footnote
+ul
 {
-    font-style: italic;
-    text-align: center;
-    margin-top: 100px;
+    list-style: none;
+    padding-left: 0px;
 }
