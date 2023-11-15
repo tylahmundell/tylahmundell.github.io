@@ -13,7 +13,7 @@ color: var(--blue);
 font-size: 55pt;
 text-decoration: underline;
 text-align: center;
-text-family: sans-serif;
+font-family: sans-serif;
 }
 
 ul
