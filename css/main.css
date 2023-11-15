@@ -4,7 +4,7 @@
     --yellow: RGBA(254,189,54,255);
     --lightblue: RGB(116,140,164);
     color: var(--blue);
-    background-color:var(--lightblue)
+    background-color:var(--lightblue);
 }
 
 title
